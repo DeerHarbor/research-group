@@ -4,7 +4,7 @@ title: "Social isolation, loneliness and functional disability in Chinese older
 publication_types:
   - "2"
 authors:
-  - Lizhi Guo(郭立志)
+  - Lizhi Guo (郭立志)
   - Li An
   - Fengping Luo (罗凤萍)
   - admin
