@@ -5,7 +5,7 @@ publication_types:
   - "2"
 authors:
   - Fengping Luo (罗凤萍)
-  - Lizhi Guo(郭立志)
+  - Lizhi Guo (郭立志)
   - Amrish Thapa
   - admin
 doi: 10.1016/j.jad.2021.01.022
