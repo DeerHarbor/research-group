@@ -3,6 +3,10 @@ title: Lizhi Guo（郭立志）
 role: Research Assistant
 avatar_filename: avatar.png
 bio: ""
+interests:
+  - Social relationships
+  - Imaging  analysis
+  - Cognition
 social:
   - display:
       header: false
