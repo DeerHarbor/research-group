@@ -4,7 +4,7 @@ title: "Social isolation and depression onset among middle-aged and older adults
 publication_types:
   - "2"
 authors:
-  - Fengping Luo(罗凤萍)
+  - Fengping Luo (罗凤萍)
   - Lizhi Guo(郭立志)
   - Amrish Thapa
   - admin
