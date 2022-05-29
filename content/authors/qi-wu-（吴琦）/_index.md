@@ -1,5 +1,5 @@
 ---
-title: Qi Wu （吴琦）
+title: Qi Wu (吴琦)
 role: Master Degree Candidate
 avatar_filename: avatar.jpg
 bio: He is focusing on the influence of short video usage on mental health among
