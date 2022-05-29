@@ -2,6 +2,10 @@
 title: Fengping Luo(罗凤萍)
 role: PhD candidate
 avatar_filename: avatar.jpg
+interests:
+  - Social relationships
+  - Physical and mental health
+  - Stress
 social:
   - display:
       header: false
@@ -28,3 +32,4 @@ superuser: false
 user_groups:
   - Alumni
 ---
+Fengping focuses on the association between social relationships and health among older adults. She is skilled in cohort and longitudinal data analysis.
