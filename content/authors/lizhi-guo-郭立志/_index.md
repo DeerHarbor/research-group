@@ -1,6 +1,10 @@
 ---
 title: Lizhi Guo(郭立志)
 avatar_filename: avatar.png
+interests:
+  - Social isolation
+  - Loneliness
+  - Cognition
 social:
   - display:
       header: false
