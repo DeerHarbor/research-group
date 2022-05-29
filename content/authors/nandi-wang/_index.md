@@ -1,5 +1,5 @@
 ---
-title: Nandi Wang
+title: Nandi Wang （王楠荻）
 role: Master Degree Candidate
 avatar_filename: avatar.jpg
 bio: Her research interests include cognitive function, health risk factors and
