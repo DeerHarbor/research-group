@@ -38,7 +38,7 @@ abstract: >-
 draft: false
 featured: false
 image:
-  filename: https://unsplash.com/photos/Pv5WeEyxMWU
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2020-12-23T09:54:04.108Z
