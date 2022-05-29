@@ -17,7 +17,7 @@ social:
       header: false
     link: https://scholar.google.com/citations?user=Qs04bLwAAAAJ&hl=zh-CN
     icon_pack: ai
-    icon: google-schalor
+    icon: google-scholar
   - display:
       header: false
     link: https://www.researchgate.net/profile/Lizhi-Guo-2
