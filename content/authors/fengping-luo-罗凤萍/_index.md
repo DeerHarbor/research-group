@@ -1,7 +1,7 @@
 ---
 title: Fengping Luo(罗凤萍)
 role: PhD candidate
-avatar_filename: avatar.jpg
+avatar_filename: avatar.png
 interests:
   - Social relationships
   - Physical and mental health
