@@ -31,9 +31,9 @@ content:
         color: '#555'
         brightness: 0.7
         media: contact.jpg
-    - title: World-Class Semiconductor Lab
-      content: 'Just opened last month!'
-      align: right
+    - title: Social Relationships Lab
+   # content: 'Just opened last month!'
+      align: center
       background:
         position: center
         color: '#333'
