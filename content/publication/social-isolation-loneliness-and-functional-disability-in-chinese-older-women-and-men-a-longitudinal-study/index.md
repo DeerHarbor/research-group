@@ -5,7 +5,7 @@ publication_types:
   - "0"
   - "2"
 authors:
-  - Lizhi Guo (郭立志)
+  - Lizhi Guo
   - Li An
   - Fengping Luo (罗凤萍)
   - admin
