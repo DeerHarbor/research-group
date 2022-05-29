@@ -2,6 +2,8 @@
 title: " Yuanlin Liu (刘元林)"
 role: Master Degree Candidate
 avatar_filename: avatar.jpg
+bio: His research interests include mental health, influencing factors and
+  neural mechanisms of pain sensitivity.
 interests:
   - Pain sensitivity
   - Mental health
@@ -15,6 +17,12 @@ social:
 organizations:
   - name: Tianjin Medical University
     url: http://www.tmu.edu.cn/
+education:
+  courses:
+    - course: MS in Applied Psychology, 2021-2024
+      institution: Tianjin Medical University
+    - course: BS in Applied Psychology, 2017-2021
+      institution: Shandong Normal University
 superuser: false
 user_groups:
   - Grad Students
