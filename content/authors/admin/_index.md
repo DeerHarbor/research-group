@@ -21,8 +21,8 @@ social:
     icon_pack: fab
     icon: researchgate
 organizations:
-  - name: Stanford University
-    url: ""
+  - name: Tianjin University
+    url: http://www.tju.edu.cn/
 education:
   courses:
     - course: PhD in Artificial Intelligence
