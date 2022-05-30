@@ -33,7 +33,7 @@ abstract: >-
 draft: false
 featured: false
 image:
-  filename: featured.jpg
+  filename: features.jpg
   focal_point: Smart
   preview_only: false
 date: 2017-11-30T05:51:22.425Z
