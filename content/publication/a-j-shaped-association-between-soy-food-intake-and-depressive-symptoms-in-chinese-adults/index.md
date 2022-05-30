@@ -4,7 +4,7 @@ title: A J-shaped association between soy food intake and depressive symptoms in
 publication_types:
   - "2"
 authors:
-  - Bin Yu
+  - admin
   - Fei Yu
   - Qian Su
   - Qing Zhang
