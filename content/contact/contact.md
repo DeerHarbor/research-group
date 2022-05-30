@@ -21,7 +21,7 @@ content:
     street: Peiyang Park Campus, Tianjin University, No.135 Yaguan Road
     city: Haihe Education Park
     region: Tianjin
-    postcode: '94305'
+    postcode: '300350'
     country: China
     country_code: CHN
   coordinates:
