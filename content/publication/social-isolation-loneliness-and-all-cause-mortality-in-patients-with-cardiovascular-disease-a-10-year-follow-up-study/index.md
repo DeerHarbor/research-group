@@ -4,7 +4,7 @@ title: "Social isolation, Loneliness and All-cause Mortality in Patients with
 publication_types:
   - "2"
 authors:
-  - Bin Yu
+  - admin
   - Andrew Steptoe
   - Li-Jung Chen
   - Yi-Huei Chen
