@@ -8,7 +8,7 @@ interests:
 social:
   - display:
       header: false
-    link: glz1997@tju.edu.cn
+    link: mailto:?subject={title}&body={glz1997@tju.edu.cn}
     icon_pack: fas
     icon: envelope
   - display:
