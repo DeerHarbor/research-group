@@ -9,7 +9,7 @@ interests:
 social:
   - display:
       header: false
-    link: xunan_0509@tju.edu.cn
+    link: mailto:xunan_0509@tju.edu.cn
     icon_pack: fas
     icon: envelope
 organizations:
