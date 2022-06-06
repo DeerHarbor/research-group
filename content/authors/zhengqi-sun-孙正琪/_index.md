@@ -11,7 +11,7 @@ interests:
 social:
   - display:
       header: false
-    link: szq1999@tju.edu.cn
+    link: mailto:szq1999@tju.edu.cn
     icon_pack: fas
     icon: envelope
   - display:
