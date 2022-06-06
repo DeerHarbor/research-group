@@ -11,7 +11,7 @@ interests:
 social:
   - display:
       header: false
-    link: inherent12345@tju.edu.cn
+    link: mailto:inherent12345@tju.edu.cn
     icon_pack: fas
     icon: envelope
   - display:
