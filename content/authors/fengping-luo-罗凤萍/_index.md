@@ -9,7 +9,7 @@ interests:
 social:
   - display:
       header: false
-    link: luofengping08@163.com
+    link: mailto:luofengping08@163.com
     icon_pack: fas
     icon: envelope
   - display:
