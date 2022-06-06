@@ -17,10 +17,10 @@ organizations:
     url: http://www.tju.edu.cn/
 education:
   courses:
-    - course: BS in sociology,2014-2018
-      institution: Tianjin University of Technology
     - course: MS in Applied Psychology,2020-2023
       institution: Tianjin University
+    - course: BS in sociology,2014-2018
+      institution: Tianjin University of Technology
 superuser: false
 user_groups:
   - Grad Students
