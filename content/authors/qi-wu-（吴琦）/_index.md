@@ -11,7 +11,7 @@ interests:
 social:
   - display:
       header: false
-    link: 1102066201@qq.com
+    link: mailto:1102066201@qq.com
     icon_pack: fas
     icon: envelope
 organizations:
