@@ -10,7 +10,7 @@ interests:
 social:
   - display:
       header: false
-    link: yinyu@tju.edu.cn
+    link: mailto:yinyu@tju.edu.cn
     icon_pack: fas
     icon: envelope
 organizations:
