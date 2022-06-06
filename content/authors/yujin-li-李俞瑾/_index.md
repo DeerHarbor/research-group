@@ -10,7 +10,7 @@ interests:
 social:
   - display:
       header: false
-    link: liyujin678@163.com
+    link: mailto:liyujin678@163.com
     icon_pack: fas
     icon: envelope
 organizations:
