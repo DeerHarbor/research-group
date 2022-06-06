@@ -11,7 +11,7 @@ interests:
 social:
   - display:
       header: false
-    link: liuyuanlin10@163.com
+    link: mailto:liuyuanlin10@163.com
     icon_pack: fas
     icon: envelope
 organizations:
