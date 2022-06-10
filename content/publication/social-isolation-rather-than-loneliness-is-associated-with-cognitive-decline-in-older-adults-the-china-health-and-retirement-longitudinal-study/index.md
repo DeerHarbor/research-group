@@ -27,6 +27,7 @@ abstract: >-
 
   **Conclusions** 
 
+
   Social isolation is associated with cognitive decline in Chinese older adults, and the relationships are independent of loneliness. These findings expand our knowledge about the links between social relationships and the cognitive function in non-Western populations.
 draft: false
 featured: false
