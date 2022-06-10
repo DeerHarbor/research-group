@@ -1,9 +1,14 @@
 ---
 title: "Social isolation, rather than loneliness, is associated with cognitive
   decline in older adults: The China Health and Retirement Longitudinal Study"
-subtitle: admin, Andrew Steptoe, Yongjie Chen, Xiaohua Jia
+subtitle: ""
 publication_types:
   - "2"
+authors:
+  - admin
+  - Andrew Steptoe
+  - Yongjie Chen
+  - Xiaohua Jia
 doi: 10.1017/S0033291720001014
 publication: Psychological Medicine
 abstract: >-
