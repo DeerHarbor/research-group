@@ -5,13 +5,13 @@ title: "Too depressed to breathe: The longitudinal association between
 publication_types:
   - "2"
 authors:
-  - admin
+  - Lizhi Guo
   - Li Yang
   - Liwei Rao
   - Fengping Luo
   - Ningcan Gao
   - Xiaohua Jia
-  - BinYu
+  - admin
 author_notes:
   - Equal contribution
   - Equal contribution
