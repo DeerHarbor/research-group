@@ -16,7 +16,7 @@ author_notes:
   - Equal contribution
   - Equal contribution
 doi: 10.1016/j.archger.2022.104797
-publication: In * Archives of Gerontology and Geriatrics*
+publication: Archives of Gerontology and Geriatrics
 abstract: >-
   Objective: Most previous studies focusing on the association between
   depressive symptoms and lung function were conducted in patients with chronic
@@ -41,5 +41,5 @@ image:
   filename: featured.jpg
   focal_point: Smart
   preview_only: false
-date: 2022-09-09T02:51:26.982Z
+date: 2022-08-28T02:51:26.982Z
 ---
