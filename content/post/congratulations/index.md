@@ -2,7 +2,7 @@
 title: Congratulations!
 date: 2022-05-27T03:24:31.812Z
 draft: false
-featured: false
+featured: true
 image:
   filename: featured.png
   focal_point: Smart
