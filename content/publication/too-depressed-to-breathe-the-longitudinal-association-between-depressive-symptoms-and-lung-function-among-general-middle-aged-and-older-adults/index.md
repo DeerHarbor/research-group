@@ -5,7 +5,7 @@ title: "Too depressed to breathe: The longitudinal association between
 publication_types:
   - "2"
 authors:
-  - Lizhi Guo
+  - Lizhi Guo (郭立志)
   - Li Yang
   - Liwei Rao
   - Fengping Luo
