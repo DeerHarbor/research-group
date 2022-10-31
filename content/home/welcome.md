@@ -3,7 +3,7 @@ widget: hero
 widget_id: RECENT-POST
 headless: true
 weight: 10
-title: Bin Yu (于斌)  Research Group
+title: Yu Lab
 hero_media: welcome.jpg
 design:
   columns: "1"
