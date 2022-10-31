@@ -10,7 +10,6 @@ design:
   css_style: null
   css_class: null
 ---
-
 <br>
 
-The **Bin Yu Research Group** has been a center of excellence for Social determinants of health, Cognitive functions, Mental health, and Stress since its founding in 2019.
+The **Yu Lab**  has been a center of excellence for Social determinants of health, Cognitive functions, Mental health, and Stress since its founding in 2019.
