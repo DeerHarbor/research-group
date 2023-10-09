@@ -17,6 +17,11 @@ social:
     link: https://www.researchgate.net/profile/Fengping-Luo
     icon_pack: fab
     icon: researchgate
+  - display:
+      header: false
+    link: https://scholar.google.com/citations?user=5-hmLRcAAAAJ&hl=zh-CN
+    icon_pack: ai
+    icon: google-scholar
 organizations:
   - name: Wuhan University
     url: https://www.whu.edu.cn/
