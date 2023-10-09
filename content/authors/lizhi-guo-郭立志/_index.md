@@ -1,5 +1,6 @@
 ---
 title: Lizhi Guo (郭立志)
+role: PhD Student
 avatar_filename: avatar.png
 interests:
   - Social isolation
@@ -23,9 +24,11 @@ social:
     icon: researchgate
 education:
   courses:
+    - institution: The Chinese University of Hong Kong
+      course: PhD in Psychology
     - course: MS in Applied Psychology, 2019-2022
       institution: Tianjin University
-    - course: BS in Material Forming and Control Engineering, 2014-2018
+    - course: BE in Material Forming and Control Engineering, 2014-2018
       institution: Jilin University
 email: ""
 superuser: false
