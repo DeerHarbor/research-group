@@ -22,6 +22,9 @@ social:
     link: https://www.researchgate.net/profile/Lizhi-Guo-2
     icon_pack: fab
     icon: researchgate
+organizations:
+  - name: The Chinese University of Hong Kong
+    url: https://www.cuhk.edu.hk/chinese/index.html
 education:
   courses:
     - institution: The Chinese University of Hong Kong
