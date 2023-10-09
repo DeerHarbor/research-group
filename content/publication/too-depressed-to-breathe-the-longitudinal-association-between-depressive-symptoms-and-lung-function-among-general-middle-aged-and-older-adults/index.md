@@ -8,7 +8,7 @@ authors:
   - Lizhi Guo (郭立志)
   - Li Yang
   - Liwei Rao
-  - Fengping Luo
+  - Fengping Luo (罗凤萍)
   - Ningcan Gao
   - Xiaohua Jia
   - admin
