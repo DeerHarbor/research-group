@@ -25,6 +25,6 @@ education:
       year: ""
 superuser: false
 user_groups:
-  - Grad Students
+  - Alumni
 ---
 Yu Yin is a postgraduate student majoring in applied psychology at Tianjin University. Her research interest is the relationship between social relationship and mental health.
