@@ -23,6 +23,6 @@ education:
       institution: Tianjin University of Technology
 superuser: false
 user_groups:
-  - Grad Students
+  - Alumni
 ---
 Nan Xu is a graduate student in Professor Yu Bin's research group. She mainly studies cognitive function, and is interested in mixed models.
