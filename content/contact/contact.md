@@ -25,8 +25,8 @@ content:
     country: China
     country_code: CHN
   coordinates:
-    latitude: '38.998005'
-    longitude: '117.314430'
+    latitude: '38.99751737881902'
+    longitude: '117.31109096980812'
   directions:  2st Floor, Section C, Datong Student Center
   office_hours:
     - 'Monday 10:00 to 13:00'
