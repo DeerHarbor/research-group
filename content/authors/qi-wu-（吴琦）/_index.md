@@ -25,6 +25,6 @@ education:
       institution: Jinan University
 superuser: false
 user_groups:
-  - Grad Students
+  - Alumni
 ---
 Qi Wu is a graduate student of Psychology at Tianjin Medical University. He is focusing on the influence of short video usage on mental health among older adults.
