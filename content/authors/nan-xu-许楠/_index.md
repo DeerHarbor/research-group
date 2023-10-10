@@ -1,6 +1,6 @@
 ---
 title: Nan Xu(许楠)
-role: Master Degree Candidate
+role: ""
 avatar_filename: avatar.jpg
 bio: She mainly studies cognitive function, and is interested in mixed models.
 interests:
