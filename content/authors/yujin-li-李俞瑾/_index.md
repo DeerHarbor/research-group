@@ -24,6 +24,6 @@ education:
       institution: Luoyang Normal University
 superuser: false
 user_groups:
-  - Grad Students
+  - Alumni
 ---
 Yujin is focusing on the influence of online social networks on cognitive functions of older adults. Her research interests include social relationships and cognitive functions of older adults. 
