@@ -1,6 +1,6 @@
 ---
 title: Yujin Li (李俞瑾)
-role: Master Degree Candidate
+role: PhD student
 avatar_filename: avatar.jpg
 bio: ""
 interests:
@@ -14,8 +14,8 @@ social:
     icon_pack: fas
     icon: envelope
 organizations:
-  - name: Tianjin Medical University
-    url: http://www.tmu.edu.cn/
+  - name: University of Windsor
+    url: https://www.uwindsor.ca/
 education:
   courses:
     - course: MS in Applied Psychology, 2020-2023
