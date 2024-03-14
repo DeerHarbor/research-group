@@ -22,7 +22,7 @@ social:
     icon: researchgate
 organizations:
   - name: Tianjin University
-    url: http://www.tju.edu.cn/
+    url: https://faculty.tju.edu.cn/216183/en/index.htm
 education:
   courses:
     - course: PhD in Social Psychology, 2011-2014
