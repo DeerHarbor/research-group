@@ -1,6 +1,6 @@
 ---
 title: Bin Yu (于斌)
-role: Associate Professor of Psychology
+role: Associate Professor
 avatar_filename: avatar.png
 bio: My research interests include Social determinants of health, Cognitive
   functions, Mental health, and Stress.
@@ -37,7 +37,7 @@ education:
 email: ""
 superuser: true
 user_groups:
-  - Principal Investigator(PI)
+  - Principal Investigator (PI)
 highlight_name: false
 ---
 
