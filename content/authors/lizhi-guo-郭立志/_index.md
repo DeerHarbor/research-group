@@ -23,8 +23,10 @@ social:
     icon_pack: fab
     icon: researchgate
 organizations:
+  - name: Lizhi's Website
+    url: https://lizhiguo.netlify.app/
   - name: The Chinese University of Hong Kong
-    url: https://www.cuhk.edu.hk/chinese/index.html
+    url: https://www.psy.cuhk.edu.hk/index.php/people/postgraduate-students-main
 education:
   courses:
     - institution: The Chinese University of Hong Kong
