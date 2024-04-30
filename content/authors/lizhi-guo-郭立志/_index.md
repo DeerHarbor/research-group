@@ -1,5 +1,5 @@
 ---
-title: Lizhi Guo (郭立志)
+title: [Lizhi Guo (郭立志)](https://lizhiguo.netlify.app/)
 role: PhD Student
 avatar_filename: avatar.png
 interests:
@@ -23,8 +23,6 @@ social:
     icon_pack: fab
     icon: researchgate
 organizations:
-  - name: Lizhi's Website
-    url: https://lizhiguo.netlify.app/
   - name: The Chinese University of Hong Kong
     url: https://www.psy.cuhk.edu.hk/index.php/people/postgraduate-students-main
 education:
