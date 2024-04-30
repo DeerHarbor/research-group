@@ -1,6 +1,6 @@
 ---
-title: [Lizhi Guo (郭立志)](https://lizhiguo.netlify.app/)
-role: PhD Student
+title: Lizhi Guo (郭立志)
+role: [PhD Student](https://lizhiguo.netlify.app/)
 avatar_filename: avatar.png
 interests:
   - Cognitive neuroscience
