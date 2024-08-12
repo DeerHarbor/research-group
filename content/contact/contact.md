@@ -27,7 +27,7 @@ content:
   coordinates:
     latitude: '38.99661'
     longitude: '117.30414'
-  directions:  2st Floor, Section C, Datong Student Center
+  directions:  3rd Floor, Section C, Datong Student Center
   office_hours:
     - 'Monday 10:00 to 13:00'
     - 'Wednesday 09:00 to 10:00'
